@@ -19,9 +19,7 @@ This Snake Game is a classic implementation where the player controls a snake to
 
 ## Demo
 
-Include a GIF or screenshot of your game here.
-
-![Snake Game Demo](demo/snake-game-demo.gif)
+![Snake Game Demo](https://i.postimg.cc/sfLJvLyV/snakegame.gif)
 
 ## How to Play
 
@@ -62,6 +60,6 @@ Contributions are welcome! If you have any suggestions, bug reports, or improvem
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Eclipse Public License 2.0](LICENSE).
 
 ---
